@@ -1,4 +1,4 @@
-package BuilderDesignPattern;
+package CreationalDesignPatterns.BuildDesignPattern;
 
 /**
  * @author Nuyun-Kalamullage

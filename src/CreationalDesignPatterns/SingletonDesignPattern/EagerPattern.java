@@ -1,10 +1,10 @@
-package SingletonDesignPattern;
+package CreationalDesignPatterns.SingletonDesignPattern;
 
 /**
  * @author Nuyun-Kalamullage
  * @IDE IntelliJ IDEA
  * @date 27/08/2023
- * @package SingletonDesignPattern
+ * @package CreationalDesignPatterns.SingletonDesignPattern
  * @project_Name Design patterns
  */
 public class EagerPattern {

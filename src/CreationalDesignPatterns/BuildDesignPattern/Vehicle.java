@@ -1,6 +1,4 @@
-package BuilderDesignPattern;
-
-import FactoryDesignPattern.VehicleFactory;
+package CreationalDesignPatterns.BuildDesignPattern;
 
 /**
  * @author Nuyun-Kalamullage
